@@ -1,4 +1,1 @@
-// third branch
-
-
-//working...
+const message: string = "Nowy commit test"
